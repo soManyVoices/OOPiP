@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\C#\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\Alexander\Desktop\C#\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\Alexander\Desktop\C#\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\Alexander\Desktop\C#\lab2\lab2\bin\Debug\ComplexLibrary.dll
+C:\Users\Alexander\Desktop\C#\lab2\lab2\bin\Debug\ComplexLibrary.pdb
+C:\Users\Alexander\Desktop\C#\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\C#\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\C#\lab2\lab2\obj\Debug\lab2.csproj.CopyComplete
+C:\Users\Alexander\Desktop\C#\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\Alexander\Desktop\C#\lab2\lab2\obj\Debug\lab2.pdb

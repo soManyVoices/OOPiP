@@ -1,0 +1,6 @@
+C:\Users\Alexander\Desktop\C#\lab2\ComplexLibrary\bin\Debug\ComplexLibrary.dll
+C:\Users\Alexander\Desktop\C#\lab2\ComplexLibrary\bin\Debug\ComplexLibrary.pdb
+C:\Users\Alexander\Desktop\C#\lab2\ComplexLibrary\obj\Debug\ComplexLibrary.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\C#\lab2\ComplexLibrary\obj\Debug\ComplexLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\C#\lab2\ComplexLibrary\obj\Debug\ComplexLibrary.dll
+C:\Users\Alexander\Desktop\C#\lab2\ComplexLibrary\obj\Debug\ComplexLibrary.pdb
