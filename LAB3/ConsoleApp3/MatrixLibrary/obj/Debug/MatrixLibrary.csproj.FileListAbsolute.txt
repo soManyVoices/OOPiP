@@ -1,0 +1,6 @@
+C:\Users\Alexander\Desktop\C#\LAB3\ConsoleApp3\MatrixLibrary\bin\Debug\MatrixLibrary.dll
+C:\Users\Alexander\Desktop\C#\LAB3\ConsoleApp3\MatrixLibrary\bin\Debug\MatrixLibrary.pdb
+C:\Users\Alexander\Desktop\C#\LAB3\ConsoleApp3\MatrixLibrary\obj\Debug\MatrixLibrary.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\C#\LAB3\ConsoleApp3\MatrixLibrary\obj\Debug\MatrixLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\C#\LAB3\ConsoleApp3\MatrixLibrary\obj\Debug\MatrixLibrary.dll
+C:\Users\Alexander\Desktop\C#\LAB3\ConsoleApp3\MatrixLibrary\obj\Debug\MatrixLibrary.pdb
