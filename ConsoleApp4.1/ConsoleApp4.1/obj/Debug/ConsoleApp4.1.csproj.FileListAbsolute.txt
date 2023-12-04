@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\ConsoleApp4.1\bin\Debug\ConsoleApp4.1.exe.config
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\ConsoleApp4.1\bin\Debug\ConsoleApp4.1.exe
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\ConsoleApp4.1\bin\Debug\ConsoleApp4.1.pdb
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\ConsoleApp4.1\obj\Debug\ConsoleApp4.1.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\ConsoleApp4.1\obj\Debug\ConsoleApp4.1.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\ConsoleApp4.1\obj\Debug\ConsoleApp4.1.exe
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\ConsoleApp4.1\obj\Debug\ConsoleApp4.1.pdb
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\ConsoleApp4.1\bin\Debug\StringBuilderLib.dll
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\ConsoleApp4.1\bin\Debug\StringBuilderLib.pdb
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\ConsoleApp4.1\obj\Debug\ConsoleApp4.1.csproj.CopyComplete

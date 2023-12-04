@@ -1,0 +1,6 @@
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4\StringLibrary\bin\Debug\StringLibrary.dll
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4\StringLibrary\bin\Debug\StringLibrary.pdb
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4\StringLibrary\obj\Debug\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4\StringLibrary\obj\Debug\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4\StringLibrary\obj\Debug\StringLibrary.dll
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4\StringLibrary\obj\Debug\StringLibrary.pdb
