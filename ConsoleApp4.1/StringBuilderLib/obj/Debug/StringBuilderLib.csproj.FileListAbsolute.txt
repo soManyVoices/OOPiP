@@ -1,0 +1,6 @@
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\StringBuilderLib\bin\Debug\StringBuilderLib.dll
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\StringBuilderLib\bin\Debug\StringBuilderLib.pdb
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\StringBuilderLib\obj\Debug\StringBuilderLib.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\StringBuilderLib\obj\Debug\StringBuilderLib.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\StringBuilderLib\obj\Debug\StringBuilderLib.dll
+C:\Users\Alexander\Desktop\C#\LAB4\ConsoleApp4.1\StringBuilderLib\obj\Debug\StringBuilderLib.pdb
