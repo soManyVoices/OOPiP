@@ -1,0 +1,6 @@
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\CheckLibrary\bin\Debug\CheckLibrary.dll
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\CheckLibrary\bin\Debug\CheckLibrary.pdb
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\CheckLibrary\obj\Debug\CheckLibrary.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\CheckLibrary\obj\Debug\CheckLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\CheckLibrary\obj\Debug\CheckLibrary.dll
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\CheckLibrary\obj\Debug\CheckLibrary.pdb

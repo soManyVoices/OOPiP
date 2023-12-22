@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\ConsoleApp5\bin\Debug\CheckLibrary.dll
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\ConsoleApp5\bin\Debug\CheckLibrary.pdb
+C:\Users\Alexander\Desktop\C#\LAB5\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CopyComplete
