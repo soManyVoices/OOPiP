@@ -1,0 +1,6 @@
+C:\Users\Alexander\Desktop\C#\LAB6\ConsoleApp6\RepairJobClass\bin\Debug\RepairJobClass.dll
+C:\Users\Alexander\Desktop\C#\LAB6\ConsoleApp6\RepairJobClass\bin\Debug\RepairJobClass.pdb
+C:\Users\Alexander\Desktop\C#\LAB6\ConsoleApp6\RepairJobClass\obj\Debug\RepairJobClass.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\C#\LAB6\ConsoleApp6\RepairJobClass\obj\Debug\RepairJobClass.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\C#\LAB6\ConsoleApp6\RepairJobClass\obj\Debug\RepairJobClass.dll
+C:\Users\Alexander\Desktop\C#\LAB6\ConsoleApp6\RepairJobClass\obj\Debug\RepairJobClass.pdb
